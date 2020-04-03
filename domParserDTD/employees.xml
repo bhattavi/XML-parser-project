@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+<employees>
+	<employee>
+		<id>1</id>
+		<firstName>John</firstName>
+		<lastName>Smith</lastName>
+		<income>50000</income>
+	</employee>
+	<employee>
+		<id>2</id>
+		<firstName>David</firstName>
+		<lastName>Lee</lastName>
+		<income>70000</income>
+	</employee>
+	<employee>
+		<id>3</id>
+		<firstName>Tom</firstName>
+		<lastName>Flowers</lastName>
+		<income>40000</income>
+	</employee>
+	<employee>
+		<id>4</id>
+		<firstName>Rupert</firstName>
+		<lastName>Johnson</lastName>
+		<income>80000</income>
+	</employee>
+	<employee>
+		<id>5</id>
+		<firstName>Dave</firstName>
+		<lastName>Moris</lastName>
+		<income>90000</income>
+	</employee>
+</employees>
